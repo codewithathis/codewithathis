@@ -27,5 +27,12 @@ If my open-source work helped you:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codewithathis&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithathis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://gitscore.live/codewithathis">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/codewithathis?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/codewithathis?style=card" alt="GitScore for codewithathis" />
+  </picture>
+</a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=codewithathis&icon=0&color=0)](https://visitcount.itsvg.in)
